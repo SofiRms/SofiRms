@@ -45,11 +45,11 @@
 
 ## 📜 Certifications
 
-- 🧠 *Accelerated Deep Learning with GPU* – IBM (2025)  
-- 🤖 *Generative AI* – Databricks (2025)  
-- ☁️ *AWS S3 Basics* – Coursera Project Network (2025)  
-- 📊 *Introduction to Data Science* – Cisco Networking Academy (2025)  
-- 🔐 *Introduction to Cybersecurity* – Cisco Networking Academy (2024)  
+- 🧠 *![Accelerated Deep Learning with GPU](https://www.credly.com/badges/a22c4fda-e43d-4433-8006-3adecfbacccb/)* – IBM (2025)  
+- 🤖 *![Generative AI]*(https://credentials.databricks.com/4fda4fc7-9b36-4153-a7d8-b3759329a8e8#acc.kQ7NUfrs) – Databricks (2025)  
+- ☁️ *![AWS S3 Basics]* – Coursera Project Network (2025)  
+- 📊 *![Introduction to Data Science]* – Cisco Networking Academy (2025)  
+- 🔐 *![Introduction to Cybersecurity]* – Cisco Networking Academy (2024)  
 
 ---
 
@@ -67,4 +67,3 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SofiRms&show_icons=true&theme=radical)
