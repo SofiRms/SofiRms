@@ -67,5 +67,3 @@
 - 📧 your.email@example.com  
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SofiRms&show_icons=true&theme=radical)
