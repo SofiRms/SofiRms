@@ -45,7 +45,7 @@
 
 | 🧩 Area             | 🚀 Tools & Skills                        |
 |--------------------|------------------------------------------|
-| AI & LLMs          | `OpenAI API`, `Prompt Engineering`, `Fine-tuning` |
+| AI & LLMs          | `OpenAI API`, `Machine Learning`, `Fine-tuning` |
 | Backend Magic      | `Node.js`, `NestJS`, `REST`, `PostgreSQL` |
 | High-performance   | `Rust`, `Docker`, `Concurrency`          |
 
