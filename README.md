@@ -62,8 +62,9 @@
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/) *(Add your profile URL)*  
-- 🌐 [Portfolio](https://yourwebsite.com) *(Optional)*  
-- 📧 your.email@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sofiramos22/)
+- 📧 sofiamagaliramos@gmail.com  
 
 ---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SofiRms&show_icons=true&theme=radical)
