@@ -23,10 +23,7 @@
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=flat)
 
 **🎨 Frontend:**
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=flat)
-![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white&style=flat)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
+
 
 **🗄️ Databases:**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
@@ -43,9 +40,9 @@
 
 ## 🧠 Superpowers
 
-| 🧩 Area             | 🚀 Tools & Skills                        |
+| 🧩 Area            | 🚀 Programming Languages                   |
 |--------------------|------------------------------------------|
-| AI & LLMs          | `OpenAI API`, `Machine Learning`, `Fine-tuning` |
+|  Frontend          | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=flat) ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white&style=flat) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat) |
 | Backend Magic      | `Node.js`, `NestJS`, `REST`, `PostgreSQL` |
 | High-performance   | `Rust`, `Docker`, `Concurrency`          |
 
