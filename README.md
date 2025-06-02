@@ -21,8 +21,6 @@
 | 🗄️ **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) |
 | 🔧 **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?logo=jira&logoColor=white&style=flat) ![AWS S3](https://img.shields.io/badge/-AWS%20S3-FF9900?logo=amazonaws&logoColor=white&style=flat) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat) ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black&style=flat) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat) |
 
-
-
 ---
 
 ### 📜 Certifications
