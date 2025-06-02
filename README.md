@@ -52,7 +52,7 @@
 ---
 
 ### 📜 Certifications
-- 🧠 [Accelerated Deep Learning with GPU](https://credentials.databricks.com/4fda4fc7-9b36-4153-a7d8-b3759329a8e8#acc.yIXVo48h) – IBM (2025)  
+- 🧠 [Accelerated Deep Learning with GPU – IBM (2025)](https://credentials.databricks.com/4fda4fc7-9b36-4153-a7d8-b3759329a8e8#acc.yIXVo48h)
 - 🤖 [Generative AI – Databricks (2025)](https://credentials.databricks.com/4fda4fc7-9b36-4153-a7d8-b3759329a8e8)
 - ☁️ [AWS S3 Basics – Coursera Project Network (2025)](https://www.coursera.org/account/accomplishments/verify/2ZMSBQ9OBDHH)
 - 📊 [Introduction to Data Science – Cisco Networking Academy (2025)](https://www.credly.com/badges/5252f85d-3dea-45cb-b5e2-e070a918a1d1)
