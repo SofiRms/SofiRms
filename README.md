@@ -41,6 +41,14 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black&style=flat)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
 
+## 🧠 Superpowers
+
+| 🧩 Area             | 🚀 Tools & Skills                        |
+|--------------------|------------------------------------------|
+| AI & LLMs          | `OpenAI API`, `Prompt Engineering`, `Fine-tuning` |
+| Backend Magic      | `Node.js`, `NestJS`, `REST`, `PostgreSQL` |
+| High-performance   | `Rust`, `Docker`, `Concurrency`          |
+
 ---
 
 ### 📜 Certifications
