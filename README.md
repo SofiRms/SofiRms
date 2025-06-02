@@ -46,10 +46,10 @@
 ## 📜 Certifications
 
 - 🧠 *![Accelerated Deep Learning with GPU](https://www.credly.com/badges/a22c4fda-e43d-4433-8006-3adecfbacccb/)* – IBM (2025)  
-- 🤖 *![Generative AI]*(https://credentials.databricks.com/4fda4fc7-9b36-4153-a7d8-b3759329a8e8#acc.kQ7NUfrs) – Databricks (2025)  
-- ☁️ *![AWS S3 Basics]* – Coursera Project Network (2025)  
-- 📊 *![Introduction to Data Science]* – Cisco Networking Academy (2025)  
-- 🔐 *![Introduction to Cybersecurity]* – Cisco Networking Academy (2024)  
+- 🤖 *![Generative AI](https://credentials.databricks.com/4fda4fc7-9b36-4153-a7d8-b3759329a8e8#acc.kQ7NUfrs)* – Databricks (2025)  
+- ☁️ *![AWS S3 Basics](https://www.coursera.org/account/accomplishments/verify/2ZMSBQ9OBDHH)* – Coursera Project Network (2025)  
+- 📊 *![Introduction to Data Science](https://www.credly.com/badges/5252f85d-3dea-45cb-b5e2-e070a918a1d1/)* – Cisco Networking Academy (2025)  
+- 🔐 *![Introduction to Cybersecurity](https://www.credly.com/badges/eff1642f-6fce-4383-95f8-82f73b9c8a2b/)* – Cisco Networking Academy (2024)  
 
 ---
 
