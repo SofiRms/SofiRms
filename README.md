@@ -40,6 +40,9 @@
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofirms&layout=compact&theme=tokyonight)
+
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sofirms&theme=react-dark)
 
 ## 📫 Let's Connect
