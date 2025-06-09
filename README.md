@@ -53,7 +53,7 @@
 
 ---
 <div style="display: flex; align-items: center; gap: 10px; flex-wrap: nowrap;">
-  Rust <img width="48" height="48" src="https://iconos8.es/icon/t7vIvDXazOGO/rust-programming-language" alt="rust-programming"/>
+  Rust <img width="48" height="48" src="https://img.icons8.com/?size=100&id=AeV543ttZrcT&format=png&color=000000" alt="rust-programming"/>
   Python <img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
   Javascript <img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
   Nestjs <img width="48" height="48" src="https://img.icons8.com/color/48/nestjs.png" alt="Netsjs"/>
