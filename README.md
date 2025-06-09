@@ -53,7 +53,7 @@
 
 ---
 <div style="display: flex; align-items: center; gap: 10px; flex-wrap: nowrap;">
-  Rust <img width="48" height="48" src="https://img.icons8.com/fluency/48/rust.png" alt="c-programming"/>
+  Rust <img width="48" height="48" src="https://img.icons8.com/fluency/48/rust_programming.png" alt="c-programming"/>
   Python <img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
   Javascript <img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
   HTML5 <img width="48" height="48" src="https://img.icons8.com/fluency/48/html-5.png" alt="html-5"/>
