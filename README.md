@@ -53,12 +53,12 @@
 
 ---
 <div style="display: flex; align-items: center; gap: 10px; flex-wrap: nowrap;">
-  Rust <img width="48" height="48" src="https://img.icons8.com/?size=100&id=XWesbnSd4AUa&format=png&color=000000" alt="c-programming"/>
+  Rust <img width="48" height="48" src="https://iconos8.es/icon/t7vIvDXazOGO/rust-programming-language" alt="rust-programming"/>
   Python <img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
   Javascript <img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
+  Nestjs <img width="48" height="48" src="https://img.icons8.com/color/48/nestjs.png" alt="Netsjs"/>
   HTML5 <img width="48" height="48" src="https://img.icons8.com/fluency/48/html-5.png" alt="html-5"/>
   CSS3 <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
   React <img width="48" height="48" src="https://img.icons8.com/officel/80/react.png" alt="react"/>
   Bootstrap <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap"/>
-  Nestjs <img width="48" height="48" src="https://img.icons8.com/color/48/nestjs.png" alt="wordpress"/>
 </div>
