@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm a Full-Stack Developer
 
-<img width=100% title="Desarrolloweb" alt="Desarrolloweb" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=[FULLSTACK_DEVELOPER]&textBg=false"/>
+<img width=100% title="Fullstack" alt="Fullstack" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=[FULLSTACK_DEVELOPER]&textBg=false"/>
 
 🚀 **Full-stack developer with 2+ years of experience** building end-to-end web applications, with a strong focus on **AI-powered features**. I specialize in:
 
