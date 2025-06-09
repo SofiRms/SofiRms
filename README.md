@@ -24,6 +24,7 @@
 ---
 
 ### 📜 Certifications
+- 🕵️‍♀️ [Cibersecurity Technician - Cibersecurity Academy 2025](https://verify.academia-ciberseguridad.com/9EI5ZHFp80)
 - 💻 [Computer Vision - Kaggle 2025](https://www.kaggle.com/learn/certification/sofiarms/computer-vision)
 - 🧠 [Accelerated Deep Learning with GPU – IBM (2025)](https://credentials.databricks.com/4fda4fc7-9b36-4153-a7d8-b3759329a8e8#acc.yIXVo48h)
 - 🤖 [Generative AI – Databricks (2025)](https://credentials.databricks.com/4fda4fc7-9b36-4153-a7d8-b3759329a8e8)
