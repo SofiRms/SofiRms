@@ -50,3 +50,15 @@
   <a href="mailto:sofiamagaliramos@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/sofiramos22"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+---
+<div style="display: flex; align-items: center; gap: 10px; flex-wrap: nowrap;">
+  Rust <img width="48" height="48" src="https://img.icons8.com/fluency/48/rust.png" alt="c-programming"/>
+  Python <img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
+  Javascript <img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
+  HTML5 <img width="48" height="48" src="https://img.icons8.com/fluency/48/html-5.png" alt="html-5"/>
+  CSS3 <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
+  React <img width="48" height="48" src="https://img.icons8.com/officel/80/react.png" alt="react"/>
+  Bootstrap <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap"/>
+  Nestjs <img width="48" height="48" src="https://img.icons8.com/color/48/nestjs.png" alt="wordpress"/>
+</div>
