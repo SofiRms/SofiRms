@@ -41,16 +41,7 @@
 ---
 
 ## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/sofiramos22/)
-- 📧 sofiamagaliramos@gmail.com  
-
----
-
 <p align="center">
   <a href="mailto:sofiamagaliramos@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/sofiramos22"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
-
-![](https://komarev.com/ghpvc/?username=sofirms&color=green)
