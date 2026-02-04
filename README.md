@@ -44,7 +44,7 @@
 ---
 
 
-'''![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sofirms&theme=react-dark)'''
+<!-- ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sofirms&theme=react-dark) -->
 
 ## 📫 Let's Connect
 <p align="center">
