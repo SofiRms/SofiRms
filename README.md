@@ -42,9 +42,8 @@
 - 🇬🇧 English – B2 Conversational  
 
 ---
-
-
-<!-- ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sofirms&theme=react-dark) -->
+<!-- github's activity -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sofirms&theme=react-dark)
 
 ## 📫 Let's Connect
 <p align="center">
